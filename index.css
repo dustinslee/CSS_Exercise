@@ -1,0 +1,37 @@
+body {
+  background: #222222;
+  color: #EEEEEE;
+}
+
+main {
+  max-width: 600px;
+  margin: 24px auto;
+}
+
+section {
+  margin: 24px auto;
+  padding: 16px;
+}
+
+nav > ul {
+  list-style: none;
+}
+
+#avatar {
+  width: 100px;
+  margin: 32px auto;
+}
+
+#title {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.nav-link {
+  color: orange;
+  text-decoration: none;
+}
+
+.d-line {
+  display: inline;
+}
